@@ -1,0 +1,17 @@
+/* WeatherCard.css */
+.weather-card {
+    background: white;
+    color: #333;
+    padding: 2rem;
+    margin: 2rem auto;
+    border-radius: 10px;
+    width: 300px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  
+  .weather-icon {
+    font-size: 3rem;
+    margin: 1rem 0;
+  }
+  
